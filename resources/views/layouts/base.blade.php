@@ -7,7 +7,7 @@
   <title>Regiman - Registration Manager</title>
   <link href="{{ asset('css/app.css') }}" rel="stylesheet">
 </head>
-<body>
+<body class="bg-base">
   @yield('content', '')
 </body>
 </html>
